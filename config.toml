@@ -1,0 +1,5 @@
+baseURL = "https://beta.jasonjohns.com/"
+languageCode = "en-us"
+title = "Jason Johns dot com (beta)"
+theme = "ananke"
+newContentEditor = "code"
